@@ -90,5 +90,5 @@ Machine Learning • Data Analytics • Bioinformatics
 
 ## 📫 Connect With Me
 
-[LinkedIn](YOUR_LINKEDIN_URL) •
+[LinkedIn](https://www.linkedin.com/in/jayasree-j-a86324297/) •
 [GitHub](https://github.com/Jayasree-01)
