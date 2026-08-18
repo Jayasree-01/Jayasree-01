@@ -2,7 +2,7 @@
 
 ### Bioinformatics Graduate | Machine Learning | Data Analytics | Computational Biology
 
-I'm a Bioinformatics graduate with hands-on experience in machine learning,
+I'm a Bioinformatics graduate with academic project experience in machine learning,
 data analysis, and computational biology.
 
 I enjoy working with biological and structured datasets to build analytical
