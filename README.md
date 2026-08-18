@@ -25,14 +25,14 @@ workflows, machine learning models, and computational solutions.
 ## 🛠️ Technical Skills
 
 ### Programming & Data Analysis
-Python • R • Pandas • NumPy
+Python • R • Pandas 
 
 ### Machine Learning
 Scikit-learn • Logistic Regression • SVM • KNN • Decision Trees
 • Random Forest • Gradient Boosting • Naive Bayes • XGBoost
 
 ### Data Visualization
-Matplotlib • Seaborn • Tableau • Power BI • Excel
+Matplotlib • Seaborn • Tableau 
 
 ### Bioinformatics
 NCBI • Galaxy • NGS • Metagenomics • Molecular Docking
